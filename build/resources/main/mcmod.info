@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autommcsniper",
+  "name": "Auto MMC WS Sniper",
+  "description": "Auto Snipes MMC winstreaks",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["80hds_"],
+  "credits": "gpt",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
